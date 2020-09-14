@@ -19,6 +19,10 @@
         <a href="20200825/index.php">Engenharia Reversa com Ajax</a>
     </p>
     <p>
+        <h3>Dia 09/09/2020:</h3>
+        <a href="20200909/index.php">Requisição assincrona com API Via Cep</a>
+    </p>
+    <p>
         <h3>Atividade prática 1º bimestre</h3>
         <a href="AtividadeGrupoB/index.html">Atividade bimestral em dupla (Amanda e Yuri), exercício do grupo B</a>
     </p>
