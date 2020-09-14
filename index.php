@@ -18,5 +18,9 @@
         <h3>Dia 25/08/2020:</h3>
         <a href="20200825/index.php">Engenharia Reversa com Ajax</a>
     </p>
+    <p>
+        <h3>Atividade prática 1º bimestre</h3>
+        <a href="AtividadeGrupoB/index.html">Atividade bimestral em dupla (Amanda e Yuri), exercício do grupo B</a>
+    </p>
 </body>
 </html>
