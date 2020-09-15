@@ -19,6 +19,10 @@
         <a href="20200825/index.php">Engenharia Reversa com Ajax</a>
     </p>
     <p>
+        <h3>Dia 26/08/2020:</h3>
+        <a href="20200826/index.php">Engenharia Reversa em grupo - criação de arquivo html</a>
+    </p>
+    <p>
         <h3>Dia 09/09/2020:</h3>
         <a href="20200909/index.php">Requisição assincrona com API Via Cep</a>
     </p>
