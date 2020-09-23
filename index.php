@@ -30,5 +30,17 @@
         <h3>Atividade prática 1º bimestre</h3>
         <a href="AtividadeGrupoB/index.html">Atividade bimestral em dupla (Amanda e Yuri), exercício do grupo B</a>
     </p>
+    <p>
+        <h3>Dia 23/09/2020:</h3>
+        <a href="20200923/especie.php">Exercício prático 1 - 2º bimestre - Tabela de espécies</a>
+    </p>
+    <p>
+        <h3>Dia 23/09/2020:</h3>
+        <a href="20200923/genero.php">Exercício prático 1 - 2º bimestre - Tabela de genêros</a>
+    </p>
+    <p>
+        <h3>Dia 23/09/2020:</h3>
+        <a href="20200923/familia.php">Exercício prático 1 - 2º bimestre - Tabela de famílias</a>
+    </p>
 </body>
 </html>
