@@ -39,8 +39,24 @@
         <a href="20200923/genero.php">Exercício prático 1 - 2º bimestre - Tabela de genêros</a>
     </p>
     <p>
-        <h3>Dia 23/09/2020:</h3>
+        <h3>Dia 30/09/2020:</h3>
         <a href="20200923/familia.php">Exercício prático 1 - 2º bimestre - Tabela de famílias</a>
+    </p>
+    <p>
+        <h3>Dia 30/09/2020:</h3>
+        <a href="20200930/especie.php">Exercício prático 2 - 2º bimestre - Tabela de espécies com filtro</a>
+    </p>
+    <p>
+        <h3>Dia 30/09/2020:</h3>
+        <a href="20200930/genero.php">Exercício prático 2 - 2º bimestre - Tabela de genêros com filtro</a>
+    </p>
+    <p>
+        <h3>Dia 30/09/2020:</h3>
+        <a href="20200930/familia.php">Exercício prático 2 - 2º bimestre - Tabela de famílias com filtro</a>
+    </p>
+    <p>
+        <h3>Dia 07/10/2020:</h3>
+        <a href="20201007/index.php">Exercício prático 3 - 2º bimestre - Taxonomia completo</a>
     </p>
 </body>
 </html>
