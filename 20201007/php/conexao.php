@@ -1,7 +1,7 @@
 <?php
     $host = "localhost";
     $usuario = "root";
-    $senha = "usbw";
+    $senha = "";
     $bd = "taxonomia";
 
     if(!$conexao = mysqli_connect($host, $usuario, $senha, $bd)){
