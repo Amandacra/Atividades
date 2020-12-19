@@ -58,5 +58,29 @@
         <h3>Dia 07/10/2020:</h3>
         <a href="20201007/index.php">Exercício prático 3 - 2º bimestre - Taxonomia completo</a>
     </p>
+    <p>
+        <h3>Dia 22/10/2020:</h3>
+        <a href="atividade_2bimestre/index.php">Atividade de Music Player</a>
+    </p>
+    <p>
+        <h3>Dia 04/11/2020:</h3>
+        <a href="20201122/revisao/index.php">Atividade de revisão</a>
+    </p>
+    <p>
+        <h3>Dia 11/11/2020:</h3>
+        <a href="20201111/revisao/index.php">Atividade de revisão parte 2 - Incluindo excluir</a>
+    </p>
+    <p>
+        <h3>Dia 12/17/2020:</h3>
+        <a href="20201117/revisao/index.php">Atividade de revisão parte 3 - Incluindo update</a>
+    </p>
+    <p>
+        <h3>Dia 01/12/2020:</h3>
+        <a href="20201201/index.php">Atividade de revisão parte 4 - Incluindo autenticação</a>
+    </p>
+    <p>
+        <h3>Dia 08/12/2020:</h3>
+        <a href="20201208/index.php">Projeto Prático 3° bimestre</a>
+    </p>
 </body>
 </html>
