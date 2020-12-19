@@ -64,7 +64,7 @@
     </p>
     <p>
         <h3>Dia 04/11/2020:</h3>
-        <a href="20201122/revisao/index.php">Atividade de revisão</a>
+        <a href="20201104/revisao/index.php">Atividade de revisão</a>
     </p>
     <p>
         <h3>Dia 11/11/2020:</h3>
