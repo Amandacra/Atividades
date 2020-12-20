@@ -18,7 +18,7 @@
       </div>
       </form>
       <div>
-        Ainda não é cadastrado? <a href='#' class='link_bg_claro'> Cadastrar</a>
+        Ainda não é cadastrado? <a href='form_usuario.php' class='link_bg_claro'> Cadastrar</a>
         </div>
     </div>
   </div>
