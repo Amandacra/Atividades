@@ -1,0 +1,16 @@
+Convidado:
+    (não logado)
+    - se cadastrar;
+    - se logar se já for cadastrado.
+
+Usuário comum:
+    (permissão 2)
+    - visualizar o próprio cadastro e editar;
+    - visualizar as listas de país, estado e cidade;
+    - sair.
+
+Admin:
+    (permissão 1)
+    - Cadastrar usuário, pais, estado e cidade;
+    - visualizar, alterar e excluir usuário, país, estado e cidade;
+    - sair.
