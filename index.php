@@ -82,5 +82,9 @@
         <h3>Dia 08/12/2020:</h3>
         <a href="20201208/index.php">Projeto Prático 3° bimestre</a>
     </p>
+    <p>
+        <h3>Semana 1: 4° Bimestre</h3>
+        <a href="20200106/index.php">Atividade de acessibilidade</a>
+    </p>
 </body>
 </html>
