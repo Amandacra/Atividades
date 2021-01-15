@@ -86,5 +86,9 @@
         <h3>Semana 1: 4° Bimestre</h3>
         <a href="20200106/index.php">Atividade de acessibilidade</a>
     </p>
+    <p>
+        <h3>Semana 2:</h3>
+        <a href="20200112/index.php">Atividade de login com funcionalidade de derrubar usuário</a>
+    </p>
 </body>
 </html>
